@@ -1,0 +1,34 @@
+/* style.css */
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.welcome-message {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.dashboard-description {
+    color: #555;
+}
+
+.logout-link {
+    margin-top: 20px;
+}
+
+.user-list-title {
+    font-size: 20px;
+    margin-top: 30px;
+    color: #333;
+}
